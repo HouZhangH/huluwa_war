@@ -1,0 +1,117 @@
+player[4] 200 250
+player[2] 200 150
+player[6] 200 350
+player[5] 200 300
+xiaolouluo[0] 650 150
+xiaolouluo[1] 600 200
+xiaolouluo[2] 550 250
+xiaolouluo[3] 500 300
+xiaolouluo[4] 450 350
+xiaolouluo[5] 400 400
+laoyeye 200 400
+xiezijing 700 100
+shejing 750 50
+player[5] 250 300
+xiaolouluo[1] 550 200
+xiaolouluo[0] 600 150
+player[1] 250 100
+player[6] 250 350
+xiaolouluo[5] 350 400
+xiezijing 650 100
+player[2] 250 150
+player[4] 250 250
+player[0] 250 50
+xiaolouluo[3] 450 300
+shejing 700 50
+player[3] 250 200
+xiaolouluo[4] 400 350
+xiaolouluo[2] 500 250
+xiaolouluo[0] 550 150
+xiaolouluo[5] 300 400
+player[4] 300 250
+player[5] 300 300
+player[6] 300 350
+player[2] 300 150
+laoyeye 250 400
+laoyeye fighting with xiaolouluo[5]
+xiaolouluo[3] 400 300
+xiezijing 600 100
+player[1] 300 100
+xiaolouluo[1] 500 200
+xiaolouluo[4] 350 350
+player[0] 300 50
+xiaolouluo[2] 450 250
+shejing 650 50
+player[3] 300 200
+xiaolouluo[0] 500 150
+player[5] 350 300
+player[5] fighting with xiaolouluo[3]
+player[2] 350 150
+player[0] 350 50
+player[4] 350 250
+player[6] fighting with xiaolouluo[4]
+xiaolouluo[1] 450 200
+xiaolouluo[2] 400 250
+shejing 600 50
+player[1] 350 100
+xiezijing 550 100
+xiaolouluo[0] 450 150
+player[3] 350 200
+player[2] 400 150
+player[2] fighting with xiaolouluo[0]
+xiaolouluo[1] 400 200
+shejing 550 50
+player[0] 400 50
+player[4] fighting with xiaolouluo[2]
+player[1] 400 100
+xiezijing 500 100
+xiaolouluo[5] win laoyeye death
+player[3] fighting with xiaolouluo[1]
+shejing 500 50
+player[1] 450 100
+player[1] fighting with xiezijing
+xiaolouluo[5] 350 400
+player[0] 450 50
+player[0] fighting with shejing
+xiaolouluo[3] win player[5] death
+xiaolouluo[4] win player[6] death
+xiaolouluo[3] 450 300
+xiaolouluo[5] 400 400
+player[2] win xiaolouluo[0] death
+xiaolouluo[2] win player[4] death
+xiaolouluo[4] 400 350
+xiaolouluo[2] 450 250
+player[2] 450 150
+player[3] win xiaolouluo[1] death
+xiaolouluo[5] 450 400
+xiaolouluo[4] 450 350
+player[1] win xiezijing death
+xiaolouluo[2] 450 200
+xiaolouluo[2] fighting with player[2]
+player[0] win shejing death
+xiaolouluo[3] 450 250
+xiaolouluo[4] 450 300
+xiaolouluo[5] 450 350
+player[3] 400 200
+player[2] win xiaolouluo[2] death
+xiaolouluo[3] 450 200
+xiaolouluo[3] fighting with player[3]
+xiaolouluo[4] 450 250
+xiaolouluo[5] 450 300
+xiaolouluo[3] win player[3] death
+xiaolouluo[3] fighting with player[2]
+player[2] win xiaolouluo[3] death
+xiaolouluo[4] 450 200
+xiaolouluo[4] fighting with player[2]
+xiaolouluo[5] 450 250
+xiaolouluo[4] win player[2] death
+player[1] 450 150
+player[1] fighting with xiaolouluo[4]
+player[0] 450 100
+player[1] win xiaolouluo[4] death
+xiaolouluo[5] 450 200
+xiaolouluo[5] fighting with player[1]
+xiaolouluo[5] win player[1] death
+xiaolouluo[5] 450 150
+xiaolouluo[5] fighting with player[0]
+xiaolouluo[5] win player[0] death

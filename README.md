@@ -1,5 +1,5 @@
 ﻿# 葫芦娃蛇精世纪大战
-####151220039 侯漳姮
+#### 151220039 侯漳姮
 ------
 
 这是关于葫芦娃和蛇精的一份README文件，文件中包括以下:
@@ -8,7 +8,7 @@
 > * 框架代码介绍
 > * 测试方法介绍
 
-##1.基础功能介绍
+## 1.基础功能介绍
 ![background](http://i1.bvimg.com/626694/7dc6b534932a114a.jpg)
 
 
@@ -32,7 +32,7 @@
 ![win_lose](http://i1.bvimg.com/626694/3f2f578195030b0d.jpg)
 活着的人会主动寻找敌人攻击，直到敌人全部死亡，活着的一方赢得胜利。
 
-##2.按键功能介绍
+## 2.按键功能介绍
 ![running](http://i1.bvimg.com/626694/ddf4eac7af62f7d2.jpg)
 按下空格键的时候，敌人和葫芦娃会朝着对方的方向运动。直到碰到对方就开始打架。
 ![save](http://i1.bvimg.com/626694/d4461ba079d52bb5.jpg)
@@ -41,7 +41,7 @@
 战斗一开始时，按下字母L键，也可以读取历史文件进行战斗回放。
 
 
-##2.框架代码介绍
+## 3.框架代码介绍
 ![read](http://i2.bvimg.com/626694/9fac3d3a094e4904.jpg)
 
 一些老师框架代码就不详细说明
@@ -63,11 +63,11 @@
 
 
 
-###关键代码简要介绍：
+### 关键代码简要介绍：
 Field：
 public synchronized boolean meet_ornot(int nx, int ny) ：判断某个位置是否已经有生物，即判是否会和其他生物相遇，若那个位子已经有生物占据，则不能往那个位置走。
 public boolean judgement_enemy(Creature move_thing, int nx, int ny) ：判断自己的下一个位置是否有enemy，若有则进行fighting。
 
 public void fighting(Creature x1, Creature x2)：fighting函数，用一个随机数从0-10，当随机数取0-6时，葫芦娃和爷爷获胜，而取7-10时，蝎子精和蛇精获胜。邪不胜正。
-
-# huluwa_war
+### 测试方法介绍
+ test测试方法测试的是Field里面的judge_enemy函数，用来判断该生物的前方是否有敌人。用两个正反案例进行测试，即：用有敌人和无敌人的情况测试该函数的返回值。
